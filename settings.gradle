@@ -1,0 +1,2 @@
+rootProject.name='flixter2'
+include ':app'
